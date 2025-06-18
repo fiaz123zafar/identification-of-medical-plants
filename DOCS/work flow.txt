@@ -1,0 +1,7 @@
+project flow: we will apply deep learning algorithm(MobileNet) for classify the plant(medicine) for that we will consider 10 plants
+
+User-Interface: user will upload the image(based on the image we will classify the plant)
+
+Bckend: python, Front End: Flask(HTML,CSS & JS)
+
+Algorithm: MobileNet
